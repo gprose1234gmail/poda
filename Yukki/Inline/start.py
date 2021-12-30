@@ -1,5 +1,5 @@
 from config import MUSIC_BOT_NAME, SUPPORT_CHANNEL, SUPPORT_GROUP
-from pyrogram.types import (CallbackQuery, InlineKeyboardButton,
+from pyrogram.types import (CallbackQuery,
                             InlineKeyboardMarkup, InputMediaPhoto, Message)
 
 from Yukki import BOT_USERNAME
